@@ -1,1 +1,1 @@
-let title
+let title = "Uralbek UZ"
