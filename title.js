@@ -1,2 +1,2 @@
 let title = "Uralbek UZ";
-document.getElementById('title')
+document.getElementById('title').innerHTML =
