@@ -1,1 +1,2 @@
-let title = "Uralbek UZ"
+let title = "Uralbek UZ";
+document.getElementById('')
